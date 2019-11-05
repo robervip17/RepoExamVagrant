@@ -1,1 +1,1 @@
-{"virtualbox":{"/ficherosCompartidos":{"guestpath":"/ficherosCompartidos","hostpath":"C:/tools/cygwin/home/2daw/ficherosCompartidos","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/tools/cygwin/home/2daw","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vinyesWeb":{"guestpath":"/vinyesWeb","hostpath":"C:/tools/cygwin/home/2daw/vinyesWeb","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/tools/cygwin/home/2daw","disabled":false,"__vagrantfile":true}}}
